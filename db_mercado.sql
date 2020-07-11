@@ -2,7 +2,7 @@
 create database mercado
 */
 
-
+/*
 create table funcionarios(
 id_funcionario int not null auto_increment,
 nome varchar(15) not null,
@@ -12,7 +12,7 @@ nascimento date not null,
 salario float not null,
 primary key(id_funcionario)
 )
-
+*/
 
 /*
 create table produtos(
